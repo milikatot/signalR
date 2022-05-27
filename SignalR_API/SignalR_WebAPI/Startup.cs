@@ -13,6 +13,17 @@ public class Startup
 
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddCors(option =>
+        {
+            option.AddPolicy("allapi",
+                builder =>
+                {
+                    builder.AllowAnyOrigin()
+                           .AllowAnyMethod()
+                           .AllowAnyHeader();
+                });
+        });
+
         services.AddSignalR(c =>
         {
             c.EnableDetailedErrors = true;
@@ -28,6 +39,8 @@ public class Startup
         IWebHostEnvironment env = app.Environment;
 
         app.UseRouting();
+
+        app.UseCors();
 
         app.UseAuthorization();
 

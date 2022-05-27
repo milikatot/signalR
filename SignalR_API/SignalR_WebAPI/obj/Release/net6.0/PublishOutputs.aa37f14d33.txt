@@ -1,0 +1,13 @@
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\SignalR_WebAPI.exe
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\SignalR_WebAPI.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\SignalR_WebAPI.deps.json
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\SignalR_WebAPI.runtimeconfig.json
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\SignalR_WebAPI.pdb
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Progetti\DemoSignalR\SignalR_API\SignalR_WebAPI\obj\Release\net6.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
